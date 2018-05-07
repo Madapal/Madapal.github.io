@@ -1,2 +1,0 @@
-# basicpage.html
-Lets go!
